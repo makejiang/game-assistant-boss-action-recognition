@@ -1,0 +1,18 @@
+{
+  "author": "Intel",
+  "description": "体验 Boss 招式识别游戏助手（《鬼武者：剑之道》，Boss 佐佐木岩流）",
+  "detail_describe": "基于游戏助手的BAR服务识别游戏中Boss的招式动作。提供三种交互模式：\n观战模式 — 自动记录招式、伤害事件至 Memory 服务，战斗结束后调用LLM服务生成战斗分析报告\n教学模式 — 战斗中识别Boss招式，实时弹窗提示应对按键\n子弹时间 — 识别招式瞬间减速游戏并播放讲解视频，深度学习招式的应对策略",
+  "display_description": "基于游戏助手的BAR服务识别游戏中Boss的招式动作",
+  "display_name": "Boss招式识别",
+  "name": "game-assistant-boss-action-recognition",
+  "scope": [
+    "main"
+  ],
+  "type": "英特尔用户专区",
+  "use_cases": [
+    "你能做什么？",
+    "帮我做一个截屏提字工具",
+    "帮我做一款说话就能查攻略的语音助手"
+  ],
+  "version": "1.0.0"
+}
